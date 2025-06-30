@@ -4,12 +4,11 @@ How to Login Your Yahoo Mail Account Easily?
 Yahoo Mail remains one of the most widely used email services worldwide, known for its user-friendly interface and reliable performance. Whether you use Yahoo Mail for personal communication, professional correspondence, or staying updated with newsletters and alerts, knowing how to complete a smooth and secure login is essential. This article guides you through the steps of yahoo mail login, addresses common challenges, and explains how to get assistance from yahoo mail customer service or yahoo mail customer support when needed.
 
 
-.. image:: start.png
+.. image:: login-now.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
-   :target: https://getchatsupport.live/
-
+   :target: https://aclogportal.com/yahoo-login
 
 
 Understanding Yahoo Mail Login
